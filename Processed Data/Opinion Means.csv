@@ -1,0 +1,4 @@
+r_man,r_woman,"avg(r_🥺_opinion)",r_count
+False,False,0.506944444444444,72
+False,True,0.561111111111111,90
+True,False,0.55,50

@@ -1,0 +1,15 @@
+group 1:
+ wren: +🥺
+ sage: -🥺
+group 2:
+ wren: -🥺
+ sage: +🥺
+
+'eyes', 40
+'pleading', 25
+'puppy', 25 (+ 'dog', 10)
+'face', 16
+'begging'/'beg', 14
+'cute', 13
+'bottom', 8
+'sad', 5
